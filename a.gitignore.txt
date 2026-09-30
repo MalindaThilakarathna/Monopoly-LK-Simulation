@@ -1,0 +1,11 @@
+# Compiled binaries and object files
+*.o
+*.exe
+*.out
+monopoly
+monopoly.exe
+
+# OS / Editor files
+.DS_Store
+.vscode/
+*.swp
